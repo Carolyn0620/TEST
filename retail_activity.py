@@ -11,4 +11,4 @@ class Customer: #define the class
  
 customer1= Customer("123","Carolyn", "lauyeejie20@gmail.com", "0223344555", "15 Rathmines Road") #create an instance
  
-customer1.display() #Calling the display method
+customer1.display() #calling the display method
